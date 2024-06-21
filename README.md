@@ -15,7 +15,10 @@ Background workers of the [meajudafi](https://github.com/conradoqg/meajudafi-sta
 ## Usage
 
 ```sh
-$ ./bin/cvmfe.js run <worker> <options>
+$ git clone https://github.com/conradoqg/meajudafi-workers.git
+$ cd meajudafi-workers
+$ npm install
+$ node ./bin/cvmfe.js run <worker> <options>
 ```
 
 ## Related repositories
