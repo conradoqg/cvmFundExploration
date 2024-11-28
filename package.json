@@ -12,7 +12,7 @@
     "byline": "^5.0.0",
     "convert-hrtime": "^2.0.0",
     "dayjs": "^1.7.7",
-    "fast-csv": "^2.4.1",
+    "fast-csv": "^4.3.6",
     "fs-extra": "^7.0.1",
     "got": "^9.3.2",
     "iconv-lite": "^0.4.24",
