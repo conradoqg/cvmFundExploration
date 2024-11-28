@@ -8,7 +8,7 @@
   "dependencies": {
     "@sentry/node": "^6.2.5",
     "@sentry/tracing": "^6.2.5",
-    "@urbica/pg-migrate": "^1.0.3",
+    "@urbica/pg-migrate": "^1.2.2",
     "byline": "^5.0.0",
     "convert-hrtime": "^2.0.0",
     "dayjs": "^1.7.7",
