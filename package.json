@@ -28,7 +28,7 @@
     "progress-stream": "^2.0.0",
     "promise-results": "^0.6.2",
     "promisepipe": "^3.0.0",
-    "puppeteer": "^1.11.0",
+    "puppeteer": "^1.13.0",
     "string-similarity": "^1.2.1",
     "tiny-async-pool": "^1.0.4",
     "unzip-stream": "^0.3.0",
