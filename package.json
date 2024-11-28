@@ -17,7 +17,7 @@
     "got": "^9.3.2",
     "iconv-lite": "^0.4.24",
     "is-docker": "^1.1.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "node-fetch": "^2.3.0",
     "node-worker-threads-pool": "^1.2.2",
     "pg": "^7.17.1",
